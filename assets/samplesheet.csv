@@ -1,0 +1,2 @@
+sample_id,vcf,reference,gtf
+sample1,/path/to/sample1.vcf,/path/to/genome.fa,/path/to/annotation.gtf
